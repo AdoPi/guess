@@ -1,0 +1,50 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Bleach",
+        "Naruto",
+        "One piece",
+        "Kebab"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Bleach is love"
+      },
+      "image": "img/bleach.jpg",
+      "number": 1,
+      "prompt": "Guess the anime"
+    },
+    {
+      "answers": [
+        "Black clover",
+        "One piece",
+        "Naruto"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "One piece is not really cool"
+      },
+      "image": "img/onepiece.jpg",
+      "number": 2,
+      "prompt": "Guess the anime"
+    },
+    {
+      "answers": [
+        "Bleach",
+        "One piece",
+        "Hero academia"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "HERO ACADEMIA is BIG love 4ever"
+      },
+      "image": "img/academia.jpg",
+      "number": 3,
+      "prompt": "Guess the anime"
+    }
+  ],
+
+  "title": "Anime quizzzzzzzzz",
+  "url": "http://urbaninstitute.github.io/quick-quiz/"
+}

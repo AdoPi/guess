@@ -1,0 +1,41 @@
+// example quiz text
+// @bsouthga
+// <- (this is a comment and will be ignored)
+
+// this is the url for the parent
+url: http://localhost
+
+// this is the title of the quiz
+# Anime quizzzzzzzzz
+
+// this is an example question.
+// the number signifies the question order,
+// meaning questions can be placed in random order
+// within the file
+1) Guess the anime
+  - Bleach
+  * One piece
+  - Naruto
+  - Kebab
+
+  // this image will appear along with
+  // the question pompt
+  (image) onepiece.jpg
+
+2) Guess the anime
+  * Bleach
+  - One piece
+  - Naruto
+
+  // this image will appear along with
+  // the question pompt
+  (image) bleach.jpg
+
+3) Guess the anime
+  - Bleach
+  * Hero academia
+  - Naruto
+
+  // this image will appear along with
+  // the question pompt
+  (image) academia.jpg
